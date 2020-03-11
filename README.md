@@ -1,7 +1,7 @@
 # PythonBacktesting
 Backtesting strategies using Backtrader and AlphaVantage
 
-Build your local virtual environment using the requirements.txt file
+To setup your local environment: Build your local virtual environment using the requirements.txt file
 
 PullAndPlot.py is the main file. It currently Plots AAPL in 1-min time intervals using AlphaVantage and MatPlotLib to plot.
 
