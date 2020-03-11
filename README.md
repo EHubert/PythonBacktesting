@@ -7,7 +7,11 @@ PullAndPlot.py is the main file. It currently Plots AAPL in 1-min time intervals
 
 ![Imgur](https://i.imgur.com/MGkzQp9.png)
 
-TODO: Fix VWAP indicator so it uses Session VWAP starting at the beginning of each day. (Currently it's using a 390 period 'Rolling VWAP')
+TODO:
+
+* Fix VWAP indicator so it uses Session VWAP starting at the beginning of each day. (Currently it's using a 390 period 'Rolling VWAP')
+* Add other indicators from TradingView scripts
+* Consider pulling Fundamental data from a source (Rapid API, perhaps) in order to add fundamental metrics to backtesting
 
 
 an additional pull.ipynb Jupyter notebook is used for as a dev scratchpad.
