@@ -6,7 +6,7 @@ backcall==0.1.0
 backtrader==1.9.74.123
 beautifulsoup4==4.8.2
 black==19.10b0
-bleach==3.1.1
+bleach==3.1.2
 certifi==2019.11.28
 chardet==3.0.4
 Click==7.0
