@@ -47,7 +47,7 @@ pathspec==0.7.0
 pickleshare==0.7.5
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
-Pygments==2.5.2
+Pygments==2.7.4
 pylint==2.4.4
 pyparsing==2.4.6
 pypng==0.0.20
